@@ -1,0 +1,13 @@
+{
+ "prettier.semi": false,
+ "prettier.useTabs": true,
+ "editor.formatOnSave": true,
+ "prettier.singleQuote": true,
+ "prettier.jsxSingleQuote": true,
+ "editor.codeActionsOnSave": {
+  "source.organizeImports": "explicit"
+ },
+ "prettier.arrowParens": "avoid",
+ "editor.defaultFormatter": "esbenp.prettier-vscode",
+ "editor.inlineSuggest.enabled": true
+}

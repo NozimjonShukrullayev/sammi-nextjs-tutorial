@@ -1,0 +1,8 @@
+body {
+	color: white !important;
+	background-color: #0e0d0d !important;
+}
+
+#nprogress .bar {
+	z-index: 1110 !important;
+}
